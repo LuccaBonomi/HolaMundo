@@ -2,5 +2,5 @@
 
 Mi primer repositorio en GitHub
 
-  I love 🎮, 🇦🇷
+  I love 🎮
   I like 🍦, 🥪, 🍔
